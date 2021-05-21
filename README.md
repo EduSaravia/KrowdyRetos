@@ -15,14 +15,14 @@
 
 -- Nivel de estudios
 
--- Centro de educacion
+-- Centro de educacion 
 
--- Periodo
-
+-- Periodo  
+ 
 - Extraer informacion de experiencias laborales
 
--- Empresa
+-- Empresa    ---REALIZADO ETAPA 1
 
--- Periodo
+-- Periodo  ---REALIZADO ETAPA 1
 
--- Funciones
+-- Funciones   
